@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "978041798579",
+    "firebase_url": "https://image-cafbb.firebaseio.com",
+    "project_id": "image-cafbb",
+    "storage_bucket": "image-cafbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978041798579:android:03364165d95a9a72",
+        "android_client_info": {
+          "package_name": "com.example.sourabh.image"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978041798579-bvpm4hhnofn33pto1l1jtsjt452qbbh7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sourabh.image",
+            "certificate_hash": "7a945ab5f9247db93446a9cc2ca9e8083b7d28be"
+          }
+        },
+        {
+          "client_id": "978041798579-tk2l03jlg0ipei7d5j8k36728lpisjng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHuGw4rjd65VEwld_vOOIoo8q88EHmiTg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978041798579-tk2l03jlg0ipei7d5j8k36728lpisjng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
